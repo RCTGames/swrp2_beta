@@ -4,7 +4,7 @@ local teams = {}
 
 teams[0] = {
 	name = "Republic Army",
-	color = Vector(1.0, 0, 0),
+	color = Color(0, 0, 255),
 	health = 150,
 	armor = 100,
 	model = "",
@@ -12,7 +12,7 @@ teams[0] = {
 }
 teams[1] = {
 	name = "Droid Army",
-	color = Vector(0, 0, 1.0),
+	color = Color(255, 0, 0),
 	health = 150,
 	armor = 100,
 	model = "",
