@@ -1,0 +1,8 @@
+"rgs_gamemode"
+{
+	"base"		"sandbox"
+	"title"		"Star Wars RP"
+	"maps" "^rp_"
+	"menusystem"	"1"
+	"workshopid" "869056860"
+}
