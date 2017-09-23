@@ -6,5 +6,5 @@ DEFINE_BASECLASS("gamemode_sandbox")
 GM.Sandbox = BaseClass
 
 --Teams
-team.SetUp(0, "Republic Army", Color(255,0,0,255))
-team.SetUp(1, "Droid Army",Color(0,0,255,255))
+team.SetUp(0, "Clone Army", Color(0,0,255,255))
+team.SetUp(1, "Droid Army",Color(255,0,0,255))

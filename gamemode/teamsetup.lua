@@ -3,7 +3,7 @@ local ply = FindMetaTable("Player")
 local teams = {}
 
 teams[0] = {
-	name = "Republic Army",
+	name = "Clone Army",
 	color = Color(0, 0, 255),
 	health = 150,
 	armor = 100,
